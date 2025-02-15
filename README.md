@@ -1,0 +1,1 @@
+Ce projet vise à développer un modèle d’IA capable de reconnaître des chiffres manuscrits à partir d’images. Basé sur Python, il utilise des bibliothèques pour l’entraînement d’un réseau de neurones et pour le traitement d’image. Le modèle est entraîné sur la base de données MNIST, qui contient 60 000 images de chiffres manuscrits avec une précision d'environ 98%.
